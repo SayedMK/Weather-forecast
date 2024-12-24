@@ -1,9 +1,6 @@
 # Wather-Dashboard
 A weather-dashboard using OpenWeatherMap forecast api, typescript, node js modules.
 
-
-
-
 ## User Story
 GIVEN a weather dashboard with form inputs
 
